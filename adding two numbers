@@ -1,0 +1,3 @@
+FROM java8-jre
+WORKDIR sudo apt-get install docker .io
+CMD["sum of these two numbers :"]
